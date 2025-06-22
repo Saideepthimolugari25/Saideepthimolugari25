@@ -49,8 +49,8 @@
 ### 📫 Contact Me
 
 - 📧 Email: molugarisaideepthi@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saideepthi-molugari) *(or share if you want me to add it)*
-- 🌐 Portfolio (optional): Coming soon!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saideepthi-molugari)
+- 🌐 Portfolio: Coming soon!
 
 ---
 
