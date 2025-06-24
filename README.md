@@ -50,7 +50,7 @@
 
 - 📧 Email: molugarisaideepthi@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saideepthi-molugari)
-- 🌐 Portfolio: Coming soon!
+- 🌐 Portfolio: https://saideepthiportfolio.vercel.app/
 
 ---
 
