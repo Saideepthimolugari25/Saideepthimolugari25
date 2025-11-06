@@ -1,59 +1,67 @@
 <h1 align="center">Hi 👋, I'm Saideepthi Molugari</h1>
-<h3 align="center">A passionate tech enthusiast from India exploring AI, ML, and full-stack development</h3>
+<h3 align="center">Aspiring Software Engineer | Web & Cloud Developer | Data & AI Enthusiast</h3>
 
 ---
 
-🎓 I'm a 3rd-year IT student at CBIT (Chaitanya Bharathi Institute of Technology)  
-👩‍💻 Currently interning as a Data Engineer in the AIML domain  
-🚀 Exploring Multimodal AI systems inspired by ChatGPT and BLIP  
-🌱 Learning daily by building real-world projects  
-📍 Passionate about turning ideas into working code that solves problems
+🎓 I'm a 4th-year Information Technology student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**  
+💻 Passionate about building **scalable, cloud-native, and data-driven applications**  
+☁️ Experienced in **microservices, backend systems, and DevOps automation**  
+🚀 Exploring the intersection of **Web Development, Cloud Engineering, and AI**  
+🤝 I love collaborating on projects that combine **data, design, and distributed systems**  
 
 ---
 
-### 🛠️ My Interests & Focus Areas
-- 🤖 Artificial Intelligence (AI)
-- 🧠 Machine Learning & Deep Learning
-- 🖼️ Computer Vision (CV)
-- 🗣️ Natural Language Processing (NLP)
-- 🌐 Web Development (Frontend + Backend)
-- 📊 Data Engineering
+### 🧠 My Areas of Interest
+- 🧩 Scalable Distributed Systems & Microservices  
+- ☁️ Cloud & DevOps (Docker, Jenkins, GitHub Actions, CI/CD)  
+- 🌐 Backend Engineering (Node.js, Express, REST APIs)  
+- 🧠 AI/ML & Data Engineering (Spark, Kafka, Hive, TensorFlow)  
+- 💾 Databases (MySQL, MongoDB, NoSQL Systems)  
+- 🧪 Observability & Performance Monitoring  
 
 ---
 
-### 💼 Projects I’ve Worked On
+### 💼 Selected Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **🎥 Movie Recommendation System** | Recommends movies based on content similarity | Python, Pandas, Scikit-Learn |
-| **📍 Real-Time GPS Tracking & ETA Prediction** | Predicts location and arrival time | Flask, Google Maps API, ML |
-| **💬 Twitter Sentiment Analysis** | Classifies tweet sentiment using BERT | Hugging Face, PyTorch, Transformers |
-| **🧪 Blood Group Detection from Fingerprints** | Deep learning model to classify blood groups | CNN, Computer Vision |
-| **🧠 Multimodal AI Assistant** *(Ongoing)* | Chat + Image captioning + VQA | BLIP, Hugging Face, Gradio |
+|----------|--------------|-------------|
+| **🛰️ Real-Time Flight GPS Tracking** | Built a distributed, low-latency data streaming system using Kafka and Spark for ETA prediction | Python, Kafka, Spark |
+| **🩸 Blood Group Detection Using Fingerprints** | Designed and deployed a CNN-based classification model using Flask and Docker for real-time inference | TensorFlow, CNN, Flask, Docker |
+| **🍽️ Restaurant Reservation System** | Developed RESTful APIs and a full-stack booking platform with cloud-hosted backend | MERN Stack, Node.js, MongoDB |
+| **🎥 Movie Recommendation System** | Created a content-based recommendation engine using machine learning | Python, Pandas, Scikit-learn |
+| **💬 Twitter Sentiment Analysis** | Trained a BERT-based NLP model to classify tweet sentiments | PyTorch, Transformers, Hugging Face |
 
 ---
 
-### 🧰 Tools & Technologies
+### ⚙️ Tools & Technologies
 
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=flat&logo=githubactions)
+![Kafka](https://img.shields.io/badge/-Kafka-333?style=flat&logo=apachekafka)
+![Spark](https://img.shields.io/badge/-Apache_Spark-333?style=flat&logo=apachespark)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-333?style=flat&logo=huggingface)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ---
 
-### 📫 Contact Me
+### 📫 Connect With Me
 
-- 📧 Email: molugarisaideepthi@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saideepthi-molugari)
-- 🌐 Portfolio: https://saideepthiportfolio.vercel.app/
+- 📧 **Email:** [molugarisaideepthi@gmail.com](mailto:molugarisaideepthi@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/saideepthi-molugari](https://www.linkedin.com/in/saideepthi-molugari)  
+- 💻 **GitHub:** [github.com/Saideepthimolugari25](https://github.com/Saideepthimolugari25)  
+- 🌐 **Portfolio:** [saideepthiportfolio.vercel.app](https://saideepthiportfolio.vercel.app)
 
 ---
 
+✨ *“Building scalable systems, one line of clean code at a time.”*
 
-✨ *“Learning by building. Growing by sharing.”*
 
